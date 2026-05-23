@@ -1,2 +1,0 @@
-# Bidding
-Version 2
